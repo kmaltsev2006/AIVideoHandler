@@ -100,6 +100,6 @@ To find out more information about the launch flags:
 
   - [Boitsov Vladislav](https://github.com/VBStudi0s)
   - [Luchkin Mark](https://github.com/markluchkin)
-  - [Maltsev Kirill](https://github.com/KirillMaltsev3341)
+  - [Maltsev Kirill](https://github.com/kmaltsev2006)
   - [Ryabov	Mikhail](https://github.com/Devilpoper)
   - [Shapovalenko Egor](https://github.com/lastikp0)
